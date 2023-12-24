@@ -1,15 +1,15 @@
 {
-    "name": "سورس هنترثون ميوزك",
+    "name": "سورس ريبيثون ميوزك",
     "description": "سورس ميوزك لتشغيل الاغاني في المحادثات الصوتية .",
     "keywords": ["JEPTHON", "JEPTHON-MUSIC", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music", "telethon"],
     "repository": "",
   "stack": "container",
     "env": {
         "APP_ID": {
-            "description": "ضع هنا الايبي ايدي حساب المساعد استخدم هذا 23308690"
+            "description": "ضع هنا الايبي ايدي حساب المساعد استخدم هذا 27501506"
 	},
         "API_HASH": {
-            "description": "ضع هنا الايبي هاش حساب المساعد استخدم هذا 0a64b7fb353afea42c8847bd5ae5c744"    
+            "description": "ضع هنا الايبي هاش حساب المساعد استخدم هذا 30 c400c8703260a92bc5ebd00422c903"    
         },
         "STRING_SESSION": {
             "description": "يرجى وضع كود سيشن تليثون (كود تيرمكس) للحساب المساعد هنا ",
@@ -21,14 +21,14 @@
             "value": "ENABLE"
         },
         "SUPPORT": {
-            "description": "ضع هنا معرف مجموعتك او قناتك بدون @",
+            "description": "لا تغير هذه نهائيا",
             "required": false,
-            "value": "HunerThon"
+            "value": "Repethone"
         },
         "CHANNEL": {
             "description": "ضع معرف قناتك اذا اردت غير ذلك اتركها ",
             "required": false,
-            "value": "HunerThon"
+            "value": "Repethone"
         },
         "BOT_USERNAME": {
             "description": "هنا ضع معرف البوت بدون @",
