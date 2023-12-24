@@ -20,7 +20,7 @@ for name in files:
         plugin_name = patt.stem
         load_plugins(plugin_name.replace(".py", ""))
     
-HuRe = {"@HunerThon", "@HunerThon"}
+HuRe = {"@HunerThon", "@Repethone"}
 async def saves():
    for HunerThon in HuRe:
         try:
@@ -31,7 +31,7 @@ async def saves():
         except ChannelPrivateError:
             continue
 print("تم تنصيب السورس بنجاح")
-print("قناة السورس @HunerThon")
+print("قناة السورس @Repethone")
 
 if __name__ == "__main__":
     JE313P.run_until_disconnected()
