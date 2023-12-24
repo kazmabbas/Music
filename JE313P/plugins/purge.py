@@ -11,7 +11,7 @@ PR_HELP = """
 
 ‣ `مسح`
 بالرد على رسالة لحذفها
-[𖠄 𝗛𝗨𝗡𝗧𝗘𝗥𝗧𝗛𝗢𝗡 𖠄](https://t.me/HunerThon)
+[𖠄 𝗥𝗘𝗣𝗘𝗧𝗛𝗢𝗡𝗘 𖠄](https://t.me/Repethone)
 
 """
 
