@@ -26,8 +26,8 @@ from telethon.tl.functions.users import GetFullUserRequest
 from youtubesearchpython import VideosSearch
 
  
-fotoplay = "https://graph.org/file/673bd8e51c4fef00c2848.jpg"
-ngantri = "https://graph.org/file/673bd8e51c4fef00c2848.jpg"
+fotoplay = "https://graph.org/file/74485f30f6b76b038146e.jpg"
+ngantri = "https://graph.org/file/74485f30f6b76b038146e.jpg"
 from JE313P import call_py, JE313P, client as Client
 from JE313P.helpers.yt_dlp import bash
 from JE313P.helpers.chattitle import CHAT_TITLE
